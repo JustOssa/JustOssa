@@ -2,7 +2,7 @@
 
 This is the place where I opensource unuseful stuff and break things 🤣
 
-- 
+
 ### Connect with me:
 
 [<img align="left" alt="JustOssa | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
