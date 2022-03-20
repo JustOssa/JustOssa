@@ -10,6 +10,6 @@ This is the place where I opensource unuseful stuff and break things 🤣
 [<img align="left" alt="JustOssa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[website]: https://regasse.com
+[website]: https://justossa.github.io
 [twitter]: https://twitter.com/JustOBot
 [linkedin]: https://www.linkedin.com/in/rgsoussama/
